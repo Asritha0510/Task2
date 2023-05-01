@@ -1,0 +1,41 @@
+ h5 {
+     font-style:bold;
+     margin-top: 2%;
+     font-size: 50px;
+ }
+body{
+    background-image:url('https://media.istockphoto.com/id/502037149/photo/cricket-action.jpg?s=612x612&w=0&k=20&c=zKWIx8c-5BGepNLpmWsQOoaNkZCEAdLr3KT_r8Y8maI=');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+ .main {
+     margin: 10px;
+     position: absolute;
+     left: 15%;
+     width: 10px;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ .center {
+    display: block;
+    margin-left:30%;
+    margin-right: auto;
+    width: 50%;
+  } 
+
+ div {
+    margin-left: auto;
+    margin-top: auto;
+     padding: 5px;
+     color: white;
+ }
+.i{
+    margin-top: -6%;
+}
+ p{
+    padding: 23px;
+    font-size: 30px;
+ }
+ li{
+    font-size: 30px;
+ }
